@@ -1,3 +1,3 @@
 # squashtest
 
-change a
+change b
